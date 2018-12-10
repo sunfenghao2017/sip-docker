@@ -1,0 +1,16 @@
+name: SIPs-run-dev
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - fastp 
+  - fastqc 
+  - bwa 
+  - hisat2 
+  - star
+  - salmon
+  - stringtie
+  - cufflinks  
+  - htseq 
+  - subread  
