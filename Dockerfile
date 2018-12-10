@@ -1,4 +1,4 @@
-FROM sunhao2018/sips:base2
+FROM sunhao2018/sip-docker:latest
 MAINTAINER Hao Sun and Sijie Chen<sunhao2018@mail.tsinghua.edu.cn >
 LABEL authors="sunhao2018@mail.tsinghua.edu.cn && chensj16@mails.tsinghua.edu.cn" \
     description="Docker image containing base requirements for the SIP pipeline"
